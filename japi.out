@@ -1,0 +1,76 @@
+{
+    "Global Quote": {
+        "01. symbol": "PLTR",
+        "02. open": "33.3600",
+        "03. high": "33.6500",
+        "04. low": "31.3400",
+        "05. price": "31.9100",
+        "06. volume": "60925593",
+        "07. latest trading day": "2021-02-12",
+        "08. previous close": "33.1100",
+        "09. change": "-1.2000",
+        "10. change percent": "-3.6243%"
+    }
+}
+The current price of PLTR is: $31.9100
+ {
+    "Global Quote": {
+        "01. symbol": "BB",
+        "02. open": "12.2900",
+        "03. high": "13.2850",
+        "04. low": "12.1200",
+        "05. price": "13.0400",
+        "06. volume": "18222508",
+        "07. latest trading day": "2021-02-12",
+        "08. previous close": "12.4600",
+        "09. change": "0.5800",
+        "10. change percent": "4.6549%"
+    }
+}
+The current price of BB is: $13.0400
+ {
+    "Global Quote": {
+        "01. symbol": "SNDL",
+        "02. open": "1.9300",
+        "03. high": "2.3000",
+        "04. low": "1.7800",
+        "05. price": "2.0800",
+        "06. volume": "1173373068",
+        "07. latest trading day": "2021-02-12",
+        "08. previous close": "2.3800",
+        "09. change": "-0.3000",
+        "10. change percent": "-12.6050%"
+    }
+}
+The current price of SNDL is: $2.0800
+{
+    "Global Quote": {
+        "01. symbol": "TSLA",
+        "02. open": "801.2600",
+        "03. high": "817.3300",
+        "04. low": "785.3306",
+        "05. price": "816.1200",
+        "06. volume": "23768313",
+        "07. latest trading day": "2021-02-12",
+        "08. previous close": "811.6600",
+        "09. change": "4.4600",
+        "10. change percent": "0.5495%"
+    }
+}
+The current price of TSLA is: $816.1200
+{
+    "Global Quote": {
+        "01. symbol": "TSM",
+        "02. open": "138.9150",
+        "03. high": "139.8050",
+        "04. low": "137.1599",
+        "05. price": "138.0600",
+        "06. volume": "11114110",
+        "07. latest trading day": "2021-02-12",
+        "08. previous close": "139.1600",
+        "09. change": "-1.1000",
+        "10. change percent": "-0.7905%"
+    }
+}
+The current price of TSM is: $138.0600
+
