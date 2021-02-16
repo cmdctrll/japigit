@@ -20,4 +20,5 @@ def main():
             stockSymbol = (jsDict["Global Quote"].get("01. symbol"))
             stockPrice = (jsDict["Global Quote"].get("05. price"))
             print("The current price of %s is: $%s\n" % (stockSymbol, stockPrice))
+            print("Stock Quotes retrieved successfully!")
 main()
